@@ -29,7 +29,7 @@ My core research interests encompass **distribution shift**, **vision-and-langua
   - Heechul Lim, Haeyun Lee, Ujae Choi, SeongBae Kong, Seong Hoon Kim, Hyun-Boo Lee, Kang-Wook Chon*, Min-Soo Kim*
   - **IJCAI** 2025
 
-### Journal Papers
+### International Journal Papers
 
 1. **Active Learning Using Generative Adversarial Networks for Improving Generalization and Avoiding Distractor Points**  
    *Heechul Lim*, Kang-Wook Chon, Min-Soo Kim  
@@ -46,7 +46,7 @@ My core research interests encompass **distribution shift**, **vision-and-langua
    - **IEEE Access**, SCIE (IF=3.745), August 1, 2022  
    - Presented a Taylor Expansion-based NAS method with fine-grained channel-level search, improving both speed and accuracy.
 
-### Conference Papers
+### International Conference Papers
 
 4. **BERT-enhanced Graph Neural Network for Knowledge Base Population**  
    *Heechul Lim*, Min-Soo Kim  
