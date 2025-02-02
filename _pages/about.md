@@ -1,5 +1,5 @@
 ---
-layout: single
+#layout: single
 permalink: /
 title: "About Me"
 excerpt: "About Me"
