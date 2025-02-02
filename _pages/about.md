@@ -12,7 +12,7 @@ classes: "about-page"
 
 ## Introduction
 
-Hello! I am ***Heechul Lim***, a Ph.D. holder in AI with extensive research and industrial experience across **Anomaly Detection**, **Computer Vision**, **Natural Language Processing**, and **AutoML**. I have published several papers in top-tier journals (SCIE, JCR top 8–10%) and international conferences, and hold multiple patents related to deep learning acceleration and neural architecture search. Currently, I work as a **Senior Research Engineer at LG Electronics**, integrating advanced anomaly detection and test-time adaptation into manufacturing processes. Previously at **Samsung Electronics**, I led innovative projects in mobile forensics and data analytics, earning prestigious awards from both the President and Executive Vice President.
+Hello! I am ***Heechul Lim***, a Ph.D. holder in AI with extensive research and industrial experience across **Anomaly Detection**, **Computer Vision**, **Natural Language Processing**, and **AutoML**. I have published several papers in top-tier journals (SCIE, JCR top 5.2%) and international conferences, and hold multiple patents related to deep learning acceleration and neural architecture search. Currently, I work as a **Senior Research Engineer at LG Electronics**, integrating advanced anomaly detection and test-time adaptation into manufacturing processes. Previously at **Samsung Electronics**, I led innovative projects in mobile forensics and data analytics, earning prestigious awards from both the President and Executive Vice President.
 
 My core research interests encompass **distribution shift**, **vision-and-language pretraining (VLP)**, **prompt engineering**, and **efficient architecture search**. I am also skilled in **GAN-based active learning**, **weakly supervised learning**, **graph neural networks**, and **PyTorch**. Committed to bridging cutting-edge research with real-world solutions, I welcome any collaboration ideas or questions you may have!
 
@@ -23,17 +23,17 @@ My core research interests encompass **distribution shift**, **vision-and-langua
 ### Under Review
 1. **Enhancing Reverse Distillation with Coreset Learning for Unified Multi-Class Anomaly Detection**
   - **Heechul Lim**, Kang-Wook Chon, Hyun-Boo Lee, Haeyun Lee, Min-Soo Kim
-  - **IJCAI** 2025
+  - **IJCAI (Top Conference)** 2025
 
 2. **More Than Words for Sophisticated Anomaly Detection via SAM with Multi-Level Noise and Soft Labels**
   - **Heechul Lim**, Haeyun Lee, Ujae Choi, SeongBae Kong, Seong Hoon Kim, Hyun-Boo Lee, Kang-Wook Chon, Min-Soo Kim
-  - **IJCAI** 2025
+  - **IJCAI (Top Conference)** 2025
 
 ### International Journal Papers
 
 1. **Active Learning Using Generative Adversarial Networks for Improving Generalization and Avoiding Distractor Points**  
    **Heechul Lim**, Kang-Wook Chon, Min-Soo Kim  
-   - **Expert Systems with Applications**, SCIE (IF=8.665, Top 8% in JCR), April 26, 2023  
+   - **Expert Systems with Applications**, SCIE (IF=8.665, Top 5.2% in JCR), April 26, 2023  
    - Proposed a novel GAN-based active learning strategy for noise reduction and improved generalization.
 
 2. **ConnectomeNet: A Unified Deep Neural Network Modeling Framework for Multi-task Learning**  
