@@ -12,50 +12,22 @@ classes: "about-page"
 
 ## Introduction
 
-Hello! I am **Heechul Lim**, a Ph.D. holder in AI with extensive research and industrial experience in the fields of **Anomaly Detection**, **Computer Vision**, **Natural Language Processing**, **AutoML**, and more. I have published multiple research papers in top-tier journals (including SCIE, JCR top 8~10%) and international conferences, and I hold several patents in deep learning acceleration and neural architecture search.
+Hello! I am **Heechul Lim**, a Ph.D. holder in AI with extensive research and industrial experience across **Anomaly Detection**, **Computer Vision**, **Natural Language Processing**, and **AutoML**. I have published several papers in top-tier journals (SCIE, JCR top 8–10%) and international conferences, and hold multiple patents related to deep learning acceleration and neural architecture search. Currently, I work as a **Senior Research Engineer at LG Electronics**, integrating advanced anomaly detection and test-time adaptation into manufacturing processes. Previously at **Samsung Electronics**, I led innovative projects in mobile forensics and data analytics, earning prestigious awards from both the President and Executive Vice President.
 
-Currently, I work as a **Senior Research Engineer at LG Electronics**, focusing on integrating cutting-edge anomaly detection techniques into manufacturing processes. In my previous role at **Samsung Electronics**, I led two innovative projects in mobile forensics and data analysis, earning top honors, including the President and Executive Vice President awards. My passion lies in designing and deploying AI systems that offer high-impact, real-world solutions.
-
-**Please feel free to reach out if you have any collaboration ideas or questions!**
-
----
-
-## Summary
-
-- **Ph.D. in AI** with hands-on experience in **Anomaly Detection**, **Computer Vision**, **NLP**, and **AutoML**  
-- Published **4+ papers** in top-tier international journals and conferences  
-- Former **Samsung Electronics** Software Engineer, awarded by CEO & VP for innovative projects  
-- **LG Electronics Senior Research Engineer**, drastically improving manufacturing processes via anomaly detection and advanced AI techniques  
-- Skilled in **GAN-based active learning**, **weakly supervised learning**, **graph neural networks**, and **PyTorch**  
-- Committed to bridging cutting-edge research with real-world applications  
-
----
-
-## Research Interests
-
-1. **Anomaly Detection & Distribution Shift**  
-   - Robust anomaly detection in complex, real-world datasets  
-   - Addressing distribution shift via test-time adaptation
-
-2. **Computer Vision & Vision-and-Language Pretraining (VLP)**  
-   - Integrating VLP for enhanced feature understanding in multi-modal settings  
-   - Prompt engineering for vision-language tasks
-
-3. **Neural Architecture Search (AutoML)**  
-   - Gradient-based optimization and fine-grained search spaces  
-   - Efficient architecture search for large-scale datasets
-
-4. **Natural Language Processing & Knowledge Graphs**  
-   - BERT-enhanced GNN approaches for knowledge base population  
-   - Information extraction and entity linking in noisy or low-resource environments
-
-5. **Active Learning & Weakly Supervised Learning**  
-   - Minimizing annotation costs using GANs and data augmentation  
-   - Label noise mitigation and robust model training
+My core research interests encompass **distribution shift**, **vision-and-language pretraining (VLP)**, **prompt engineering**, and **efficient architecture search**. I am also skilled in **GAN-based active learning**, **weakly supervised learning**, **graph neural networks**, and **PyTorch**. Committed to bridging cutting-edge research with real-world solutions, I welcome any collaboration ideas or questions you may have!
 
 ---
 
 ## Publications
+
+### Under Review
+1. **Enhancing Reverse Distillation with Coreset Learning for Unified Multi-Class Anomaly Detection**
+  - Heechul Lim, Kang-Wook Chon, Hyun-Boo Lee, Haeyun Lee*, Min-Soo Kim*
+  - **IJCAI** 2025
+
+2. **More Than Words for Sophisticated Anomaly Detection via SAM with Multi-Level Noise and Soft Labels**
+  - Heechul Lim, Haeyun Lee, Ujae Choi, SeongBae Kong, Seong Hoon Kim, Hyun-Boo Lee, Kang-Wook Chon*, Min-Soo Kim*
+  - **IJCAI** 2025
 
 ### Journal Papers
 
