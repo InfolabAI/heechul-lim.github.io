@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. DGIST. LG electronics."
   location         : "Korea"
-  email            : "ghfelight@gmail.com"
+  email            : #"ghfelight@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
