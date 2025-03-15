@@ -24,6 +24,7 @@ My core research interests include distribution shift, vision-and-language pretr
 ### Under Review
 - **Enhancing Reverse Distillation with Coreset Learning for Unified Multi-Class Anomaly Detection**
   - ![Profile Photo](/assets/1722404474594.jpg){: width="300px"}
+  - <img src="/assets/1722404474594.jpg" alt="Profile Photo" width="300" />
   - **Heechul Lim**, Kang-Wook Chon, Hyun-Boo Lee, Suk-Ju Kang, Haeyun Lee, Min-Soo Kim
   - **ICCV (Top Conference)** 2025
 
