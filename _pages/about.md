@@ -86,9 +86,9 @@ My core research interests include distribution shift, vision-and-language pretr
   - **PyTorch-based R&D Infrastructure**
     - Established a robust PyTorch ecosystem for rapid prototyping and benchmarking new anomaly detection approaches.
     - Implemented various data augmentation, oversampling, label smoothing, distillation, and hyperparameter tuning strategies.
- - **Parameter Auto-Optimization Cross-Platform App (Windows/Linux)**
-   - Single-handedly developed a Bayesian-based auto-optimization tool with a user-friendly UI.
-   - Automated parameter tuning (which originally took ~1 hour on average) down to a one-click process.
+  - **Parameter Auto-Optimization Cross-Platform App (Windows/Linux)**
+    - Single-handedly developed a Bayesian-based auto-optimization tool with a user-friendly UI.
+    - Automated parameter tuning (which originally took ~1 hour on average) down to a one-click process.
 
 - LG Electronics, Industry Scholarship Recipient (PhD) **(Mar. 2023 – Aug. 2023, Seoul, Korea)**
   - Conducted deep learning research on manufacturing data during doctoral program.
@@ -116,8 +116,8 @@ My core research interests include distribution shift, vision-and-language pretr
     - Published in top-tier SCI journals (top 8–10% in JCR).
     - Proposed an advanced Neural Architecture Search method with minimal search space constraints, achieving ~5% accuracy gain over baseline SOTA.
     - Presented BERT + GNN-based KBP system at an international conference.
- - **Leading an AI Research Team**
-   - Supervised four graduate and undergraduate researchers to lay the groundwork for Agentic AI.
+  - **Leading an AI Research Team**
+    - Supervised four graduate and undergraduate researchers to lay the groundwork for Agentic AI.
 
 - B.S. in Computer Software Engineering **Kwangwoon University** **(Mar. 2006 – Feb. 2014)**
   - Participated in **Samsung SW Membership (2012–2013)**, focusing on machine learning and security applications.
