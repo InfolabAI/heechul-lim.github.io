@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Heechul Lim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/1722404474594.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. DGIST. LG electronics."
   location         : "Korea"
   email            : #"ghfelight@gmail.com"
