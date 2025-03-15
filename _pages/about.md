@@ -29,7 +29,7 @@ My core research interests include distribution shift, vision-and-language pretr
 
 - **More Than Words for Sophisticated Anomaly Detection via SAM with Multi-Level Noise and Soft Labels**
   - **Heechul Lim**, Kang-Wook Chon, Ujae Choi, SeongBae Kong, Seong Hoon Kim, Haeyun Lee, Suk-Ju Kang, Hyun-Boo Lee
-  - <img src="/assets/samad.jpg" alt="Profile Photo" width="300" />
+  - <img src="/assets/samad.jpg" alt="Profile Photo" width="400" />
   - **ICCV (Top Conference)** 2025
 
 ### International Journal Papers
@@ -37,19 +37,19 @@ My core research interests include distribution shift, vision-and-language pretr
 - **Active Learning Using Generative Adversarial Networks for Improving Generalization and Avoiding Distractor Points**  
   - **Heechul Lim**, Kang-Wook Chon, Min-Soo Kim  
   - **Expert Systems with Applications**, SCIE (IF=8.665, Top 5.2% in JCR), April 26, 2023
-  - <img src="/assets/algad.jpg" alt="Profile Photo" width="300" />
+  - <img src="/assets/algad.jpg" alt="Profile Photo" width="400" />
   - Proposed a novel GAN-based active learning strategy for noise reduction and improved generalization.
 
 - **ConnectomeNet: A Unified Deep Neural Network Modeling Framework for Multi-task Learning**  
   - **Heechul Lim**, Kang-Wook Chon, Min-Soo Kim  
   - **IEEE Access**, SCIE (IF=3.745), March 20, 2023
-  - <img src="/assets/cnet.jpg" alt="Profile Photo" width="300" />
+  - <img src="/assets/cnet.jpg" alt="Profile Photo" width="400" />
   - Developed a multi-task learning framework unifying heterogeneous tasks with minimal architecture overhead.
 
 - **TENAS: Using Taylor Expansion and Channel-level Skip Connection for Neural Architecture Search**  
   - **Heechul Lim**, Min-Soo Kim  
   - **IEEE Access**, SCIE (IF=3.745), August 1, 2022
-  - <img src="/assets/tenas.jpg" alt="Profile Photo" width="300" />
+  - <img src="/assets/tenas.jpg" alt="Profile Photo" width="400" />
   - Presented a Taylor Expansion-based NAS method with fine-grained channel-level search, improving both speed and accuracy.
 
 ### International Conference Papers
@@ -57,7 +57,7 @@ My core research interests include distribution shift, vision-and-language pretr
 - **BERT-enhanced Graph Neural Network for Knowledge Base Population**  
   - **Heechul Lim**, Min-Soo Kim  
   - **IEEE BigComp**, Jeju, Korea, February 15, 2023
-  - <img src="/assets/bgkbp.jpg" alt="Profile Photo" width="300" />
+  - <img src="/assets/bgkbp.jpg" alt="Profile Photo" width="250" />
   - Combined BERT and GNNs to build a robust knowledge base population system for real-world, large-scale text corpora.
 
 
@@ -101,7 +101,7 @@ My core research interests include distribution shift, vision-and-language pretr
   - Collaborated closely with internal R&D teams to transfer academic findings into industrial best practices.
 
 - Samsung Electronics, Software Engineer **(Feb. 2014 – Jul. 2016, Suwon, Korea)**
-  - <img src="/assets/samsung.jpg" alt="Profile Photo" width="300" />
+  - <img src="/assets/samsung.jpg" alt="Profile Photo" width="400" />
   - **Mobile Forensics Automation**
     - Developed a novel mobile forensics solution that automatically processed 51.2% of detected violations.
     - Awarded the **Work Smart** prize by the Executive VP (youngest recipient at that time).
