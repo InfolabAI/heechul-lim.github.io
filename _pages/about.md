@@ -11,7 +11,7 @@ classes: "about-page"
 ---
 
 ## Introduction
-Hello! I am Heechul Lim, a Ph.D. holder in AI with extensive research and industrial experience across Anomaly Detection, Computer Vision, Natural Language Processing, and AutoML. My most recent works—currently under review at IJCAI 2025—focus on advancing anomaly detection via reverse distillation with coreset learning for efficient multi-class inspection and Segment Anything Model (SAM)-based prompt learning with multi-level noise and soft labels. These studies aim to significantly reduce memory usage, improve training stability, and enhance defect localization accuracy in real-world industrial environments.
+Hello! I am Heechul Lim, a Ph.D. holder in AI with extensive research and industrial experience across Anomaly Detection, Computer Vision, Natural Language Processing, and AutoML. My most recent works—currently under review at ICCV 2025—focus on advancing anomaly detection via reverse distillation with coreset learning for efficient multi-class inspection and Segment Anything Model (SAM)-based prompt learning with multi-level noise and soft labels. These studies aim to significantly reduce memory usage, improve training stability, and enhance defect localization accuracy in real-world industrial environments.
 
 I have published several papers in top-tier journals (SCIE, JCR top 5.2%) and international conferences, and hold multiple patents related to deep learning acceleration and neural architecture search. Currently, I work as a Senior Research Engineer at LG Electronics, integrating state-of-the-art anomaly detection and test-time adaptation into manufacturing processes. Previously at Samsung Electronics, I led innovative projects in mobile forensics and data analytics, earning prestigious awards from both the President and Executive Vice President.
 
@@ -23,12 +23,12 @@ My core research interests include distribution shift, vision-and-language pretr
 
 ### Under Review
 - **Enhancing Reverse Distillation with Coreset Learning for Unified Multi-Class Anomaly Detection**
-  - **Heechul Lim**, Kang-Wook Chon, Hyun-Boo Lee, Haeyun Lee, Min-Soo Kim
-  - **IJCAI (Top Conference)** 2025
+  - **Heechul Lim**, Kang-Wook Chon, Hyun-Boo Lee, Suk-Ju Kang, Haeyun Lee, Min-Soo Kim
+  - **ICCV (Top Conference)** 2025
 
 - **More Than Words for Sophisticated Anomaly Detection via SAM with Multi-Level Noise and Soft Labels**
-  - **Heechul Lim**, Haeyun Lee, Ujae Choi, SeongBae Kong, Seong Hoon Kim, Hyun-Boo Lee, Kang-Wook Chon, Min-Soo Kim
-  - **IJCAI (Top Conference)** 2025
+  - **Heechul Lim**, Kang-Wook Chon, Ujae Choi, SeongBae Kong, Seong Hoon Kim, Haeyun Lee, Suk-Ju Kang, Hyun-Boo Lee
+  - **ICCV (Top Conference)** 2025
 
 ### International Journal Papers
 
@@ -86,6 +86,9 @@ My core research interests include distribution shift, vision-and-language pretr
   - **PyTorch-based R&D Infrastructure**
     - Established a robust PyTorch ecosystem for rapid prototyping and benchmarking new anomaly detection approaches.
     - Implemented various data augmentation, oversampling, label smoothing, distillation, and hyperparameter tuning strategies.
+ - **Parameter Auto-Optimization Cross-Platform App (Windows/Linux)**
+   - Single-handedly developed a Bayesian-based auto-optimization tool with a user-friendly UI.
+   - Automated parameter tuning (which originally took ~1 hour on average) down to a one-click process.
 
 - LG Electronics, Industry Scholarship Recipient (PhD) **(Mar. 2023 – Aug. 2023, Seoul, Korea)**
   - Conducted deep learning research on manufacturing data during doctoral program.
@@ -113,6 +116,8 @@ My core research interests include distribution shift, vision-and-language pretr
     - Published in top-tier SCI journals (top 8–10% in JCR).
     - Proposed an advanced Neural Architecture Search method with minimal search space constraints, achieving ~5% accuracy gain over baseline SOTA.
     - Presented BERT + GNN-based KBP system at an international conference.
+ - **Leading an AI Research Team**
+   - Supervised four graduate and undergraduate researchers to lay the groundwork for Agentic AI.
 
 - B.S. in Computer Software Engineering **Kwangwoon University** **(Mar. 2006 – Feb. 2014)**
   - Participated in **Samsung SW Membership (2012–2013)**, focusing on machine learning and security applications.
@@ -128,4 +133,5 @@ My core research interests include distribution shift, vision-and-language pretr
   - Reduced security data processing time by 92% (25.8 hours → 2 hours).  
 - **First Prize**, Samsung Shared Value Program *(Mar. 2013)*  
   - Ranked 1st among 189 participants in the Samsung Electronics New Employee Training.  
+
 
