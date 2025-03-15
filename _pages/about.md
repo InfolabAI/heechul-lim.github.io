@@ -34,6 +34,7 @@ My core research interests include distribution shift, vision-and-language pretr
 - **More Than Words for Sophisticated Anomaly Detection via SAM with Multi-Level Noise and Soft Labels**
   - **Heechul Lim**, Kang-Wook Chon, Ujae Choi, SeongBae Kong, Seong Hoon Kim, Haeyun Lee, Suk-Ju Kang, Hyun-Boo Lee
   - <img src="/assets/samad.jpg" alt="Profile Photo" width="400" />
+  - ![Profile Photo](/assets/samad.jpg){: width="300px"}
   - **ICCV (Top Conference)** 2025
 
 ### International Journal Papers
